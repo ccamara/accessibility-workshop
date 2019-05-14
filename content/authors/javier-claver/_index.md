@@ -1,37 +1,35 @@
 ---
 # Display name
-name: Javier Álvarez Atarés
+name: Javier Claver Calvete
 
 # Username (this should match the folder name)
 authors:
-- javier-alvarez
+- javier-claver
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher, Teacher
+role: Intern
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad San Jorge
   url: "https://usj.es"
 
-
 # Short bio (displayed in user profile at end of posts)
-bio: Architect.
+bio: Studying architecture.
 
 interests:
 - Architecture
-- Design
-- Urban design
-
+- GIS
 
 
 education:
   courses:
   - course: Architecture
-    institution: Universidad de Navarra
+    institution: Universidad San Jorge
+    year: 2019 (expected)
 
 
 # Social/Academic Networking

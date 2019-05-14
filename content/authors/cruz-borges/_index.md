@@ -17,11 +17,10 @@ organizations:
 - name: UMR ESPACE
   url: ""
 
-
-
+weight: 4
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I was born in 1983 in Canary Island. In 2005 I received my diploma degree in Mathematics from University of La Laguna (Spain). Then I have joined the Ph.D program ``Mathematics and it applications'' in University of Cantabria under the advisor of Luis M. Pardo and J. Luis Montaña My thesis was related to Root-finding and Symbolic Regression Problems. I have also worked in Genetic Programming and Numerical and Evolutionary Methods for Decision Problems. Now I am working in prediction models of power demand and energy consumptions as well as the introduction of Automatic Modelling in the catalyst design processes in the Energy Unit of DeustoTech."
 
 interests:
 - Numerical Methods for Algebraic Varieties.

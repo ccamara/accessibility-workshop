@@ -6,6 +6,8 @@ name: Anat Caspi
 authors:
 - anat-caspi
 
+weight: 1
+
 # Is this the primary user of the site?
 superuser: false
 

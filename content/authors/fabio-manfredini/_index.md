@@ -5,6 +5,9 @@ name: Fabio Manfredini
 # Username (this should match the folder name)
 authors:
 - fabio-manfredini
+
+weight: 6
+
 # Is this the primary user of the site?
 superuser: false
 

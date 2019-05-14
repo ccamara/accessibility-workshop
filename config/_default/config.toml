@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Escuela de Arquitectura y Tecnología.<br><a href=\"https://usj.es\">Universidad San Jorge</a><br>"
+copyright = "Website by <a href=\"https://carloscamara.es\">Carlos Cámara-Menoyo</a>"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""

@@ -6,6 +6,8 @@ name: José María Robles
 authors:
 - jose-maria-robles
 
+weight: 7
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -14,23 +16,23 @@ role: Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: UMR ESPACE
-  url: ""
-
-
-
+- name: Outbarriers
+  url: "http://Outbarriers.com"
+- name: Digitalilusion
+  url: "https://digitalilusion.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I'm a software engineer. Co-founder of [Outbarriers](http://Outbarriers.com) , CTO at [Digitalilusion](http://Digitalilusion.com). Entrepreneurship Comission Vice of OnGranada."
 
 interests:
--
+- Software development
+- OpenStreetMap
 
 
 education:
   courses:
-  - course: PhD. BioEngineering
-    institution: University of California at Berkeley and UC San Francisco
+  - course: Computer Science
+    institution: ""
 
 
 
@@ -57,3 +59,5 @@ email: ""
 user_groups:
 - Speakers
 ---
+
+I'm a software engineer. Co-founder of [Outbarriers](http://Outbarriers.com) , CTO at [Digitalilusion](http://Digitalilusion.com). Entrepreneurship Comission Vice of OnGranada.

@@ -25,7 +25,7 @@ hero_media = ""
 
   # Background image.
   image = "charles-1161795-unsplash.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -45,9 +45,9 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
+  label = '<a href="#">Free access to all talks.</a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**11 researchers. 9 disciplines. 5 countries. One topic.**
 
-School of Architecture and Technology **Universidad San Jorge**, Villanueva de Gállego.
+During 13th and 14th of June 2019, the **School of Architecture and Technology at [Universidad San Jorge](https://usj.es)**, will be holding the first International workshop on urban accessibility where a series of 11 researchers from several countries and disciplines will be sharing their research and findings on the pursue of inclusive cities that can **improve the lifes of people with disabilities** from a holistic approach.

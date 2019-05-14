@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [carlos-camara, ana-ruiz, Miguel Sevilla-Callejo]
+authors: [carlos-camara, miguel-sevilla, ana-ruiz]
 tags: [Collaborative mapping, GIS, OpenStreetMap, Zaragoza, thematic cartographies, accessibility, disabilities]
 
 # Is this a featured talk? (true/false)
