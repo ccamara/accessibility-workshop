@@ -1,22 +1,22 @@
 ---
-title: "'Friendly Cities 4all!': Experience Using Open Technology For Empowering Comunity With Disable People As Protagonist"
+title: OpenSidewalk project(s)
 event: International Workshop on Urban Accessibility
 event_url: /
 location: Universidad San Jorge, Villanueva de Gállego (Spain)
 summary:
-abstract: "Friendly Cities 4All! is an interdisciplinary action-research initiative using service-learning and OpenStreetMap tools with the three-fold purpose of heightening awareness of functional diversity and social inclusion, making collaborative diagnoses using an open-source software app and acting to overcome barriers that limit the accessibility for all in our cities. People with disabilities have a leading role in this initiative. The project brings together the learning side (awareness + development of technological skills) with the service side (diagnoses & incident/ reporting actions). It is a social innovation initiative for the construction of friendly cities for all that seeks to meet social needs not currently catered for by the market or the public sector, thus opening up a space for public engagement."
+abstract: "Many routing application providers can give a detailed route from start point to destination— except for any non-motorized, pedestrian leg of a journey! The OpenSidewalks project addresses the fact that most cities lack open, consistently formatted, readily available, sidewalk data that supports routing for non-motor travel. As a result of the data crowdsourced by the OpenSidewalks project, we can furnish applications like AccessMap (found at accessmap.io)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-13T15:00:00Z"
-date_end: "2019-06-13T15:20:00Z"
+date: "2019-06-13T15:40:00Z"
+date_end: "2019-06-13T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [cruz-borges]
-tags: [OpenStreetMap]
+authors: [anat-caspi]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false

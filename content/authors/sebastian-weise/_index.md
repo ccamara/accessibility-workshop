@@ -23,7 +23,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sebastian is CEO at PlaceChangers Ltd. and a lecturer in Digital Civics (part-time) at Newcastle's School for Architecture, Planning, and Landscape (APL). He earned a PhD in digital innovation from Lancaster University focusing on improvement of consultation processes in local government. He is knowledgeable of bottom-up participation in urban development enabled by locative media. He works with residents, urban planners, city administration professionals, property developers, and ‘techies’ of different domains of computing. "
+bio: "Sebastian is CEO at [PlaceChangers Ltd](https://placechangers.co.uk/). and a lecturer in Digital Civics (part-time) at Newcastle's School for Architecture, Planning, and Landscape (APL). He earned a PhD in digital innovation from Lancaster University focusing on improvement of consultation processes in local government. He is knowledgeable of bottom-up participation in urban development enabled by locative media. He works with residents, urban planners, city administration professionals, property developers, and ‘techies’ of different domains of computing."
 
 interests:
 - civic engagement
@@ -66,4 +66,4 @@ user_groups:
 - Speakers
 ---
 
-Sebastian is CEO at PlaceChangers Ltd. and a lecturer in Digital Civics (part-time) at Newcastle's School for Architecture, Planning, and Landscape (APL). He earned a PhD in digital innovation from Lancaster University focusing on improvement of consultation processes in local government. He is knowledgeable of bottom-up participation in urban development enabled by locative media. He works with residents, urban planners, city administration professionals, property developers, and ‘techies’ of different domains of computing.
+Sebastian is CEO at [PlaceChangers Ltd](https://placechangers.co.uk/). and a lecturer in Digital Civics (part-time) at Newcastle's School for Architecture, Planning, and Landscape (APL). He earned a PhD in digital innovation from Lancaster University focusing on improvement of consultation processes in local government. He is knowledgeable of bottom-up participation in urban development enabled by locative media. He works with residents, urban planners, city administration professionals, property developers, and ‘techies’ of different domains of computing.

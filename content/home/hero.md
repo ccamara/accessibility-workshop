@@ -50,4 +50,4 @@ hero_media = ""
 
 **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
 
-Build **Anything** with Widgets
+School of Architecture and Technology **Universidad San Jorge**, Villanueva de Gállego.

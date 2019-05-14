@@ -1,7 +1,7 @@
 ---
 title: Collaborative mapping for the integration of impaired people. Accessible Zaragoza study case
-event: Accessibility Workshop
-event_url: https://example.org
+event: International Workshop on Urban Accessibility
+event_url: /
 location: Universidad San Jorge, Villanueva de Gállego (Spain)
 summary:
 abstract: "This communication is aimed to demonstrate the possibilities of collaborative mapping as empowering tools for the integration of socially excluded collectives by presenting the Accessible Zaragoza study case. Led by the School of Architecture and Technology at San Jorge University with the close collaboration of Mapeado Collaborativo, Accessible Zaragoza is an action-research project of collaborative mapping about urban accessibility in the city of Zaragoza (Spain) whose main goal is to create an online map intended to improve social integration and living standards of people with functional diversity. Although there are similar experiences with similar goals, our proposal differs in its collaborative and open approach, which has brought us to tightly collaborate with OpenStreetMap community, social organizations like non-profits2 and neighbourhood associations, universities3 and volunteers, as we will further develop."

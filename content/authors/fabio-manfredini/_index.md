@@ -1,33 +1,37 @@
 ---
 # Display name
-name: Andrea del Pilar Arenas
+name: Fabio Manfredini
 
 # Username (this should match the folder name)
 authors:
-- andrea-del-pilar
-
+- fabio-manfredini
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Psycology
+role: Architecture
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Nacional y a Distancia
-  url: "https://www.unad.edu.co/"
+- name: UMR ESPACE
+  url: ""
+
+
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
 interests:
-- Human Development
+- Urban Planning
+- Interest 2
+- Interest 3
 
 
 education:
   courses:
-  - course: Pyscology
-    institution:
+  - course: PhD. BioEngineering
+    institution: University of California at Berkeley and UC San Francisco
 
 
 
