@@ -5,15 +5,17 @@ name = "Tufte"
 light = true
 
 # Primary
-primary = "#2962ff"
-primary_light = "#768fff"
-primary_dark = "#0039cb"
+primary = "#111"
+# primary = "#2962ff"
+# primary_light = "#768fff"
+primary_light = "#FFFFF8"
+primary_dark = "#f0544f"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+menu_primary = "#111"
+menu_text = "#fff"
+menu_text_active = "#f0544f"
+menu_title = "#fff"
 
 # Home sections
 home_section_odd = "#FFFFF8"

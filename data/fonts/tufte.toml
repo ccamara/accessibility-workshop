@@ -1,13 +1,13 @@
 # Font style metadata
-name = "Classic"
+name = "Tufte"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+google_fonts = "Palatino|Gill-Sans|Lato:400,700|Merriweather|Roboto+Mono"
 
 # Font families
-heading_font = "Lato"
-body_font = "Merriweather"
-nav_font = "Lato"
+heading_font = "Palatino"
+body_font = "Palatino"
+nav_font = "Gill-Sans"
 mono_font = "Roboto Mono"
 
 # Font size
