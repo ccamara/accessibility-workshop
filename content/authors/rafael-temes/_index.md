@@ -24,7 +24,7 @@ organizations:
 bio: ""
 
 interests:
--
+- Urban Planning
 
 
 education:
