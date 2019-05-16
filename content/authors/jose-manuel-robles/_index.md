@@ -1,10 +1,10 @@
 ---
 # Display name
-name: José María Robles
+name: José Manuel Robles
 
 # Username (this should match the folder name)
 authors:
-- jose-maria-robles
+- jose-manuel-robles
 
 weight: 7
 
