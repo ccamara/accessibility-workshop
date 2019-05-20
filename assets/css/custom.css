@@ -15,6 +15,10 @@ a:hover {
   text-decoration: none;
 }
 
+.navbar-brand {
+  font-family: Palatino;
+}
+
 #people .col-md-12 h2 {
   display: none;
 }

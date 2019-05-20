@@ -43,7 +43,11 @@ subtitle = ""
  css_class = ""
 +++
 
-This workshop has been organized by the *OpenSource Architectures Research Group* at **School of Architecture and Technology from Universidad San Jorge** with the aim to create a network of researchers from different universities and disciplines sharing the same research field: that related to improving disabled peoples' condition in 21st century cities.
+This workshop has been organized by the *OpenSource Architectures Research Group* at **School of Architecture and Technology from Universidad San Jorge** with the aim to create a network of researchers from different universities and disciplines sharing the same research field: that related to improving disabled peoples' condition in 21st century cities. The workshop is aimed to fulfill the following objectives:
+
+1. To create a network of work and collaboration synergies between projects, research groups and universities for the promotion of action research projects aimed at improving the mobility and autonomy of people with functional diversity with the application of collaborative approaches and open data that can be framed as citizen science projects.
+2. To conjointly design a possible work road map for the members of the network.
+3. To publicize research projects and working groups on accessibility, disability or mobility.
 
 Convinced that research has to have some return to society if it has to improve people's lifes, the talks will be open and free to anyone who wants to attend.
 

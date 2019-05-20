@@ -2,7 +2,7 @@
 name = "Tufte"
 
 # Optional Google font URL
-google_fonts = "Cormorant-Garamond|Gill-Sans|Lato:400,700|Merriweather|Roboto+Mono"
+google_fonts = "Palatino|Cormorant-Garamond|Gill-Sans|Lato:400,700|Merriweather|Roboto+Mono"
 
 # Font families
 heading_font = "Palatino"
