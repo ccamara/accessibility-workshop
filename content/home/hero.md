@@ -33,11 +33,17 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
+# [cta]
+#   url = "/"
+#   label = "13th and 14th June 2019"
+#   icon_pack = "fas"
+#   icon = "calendar-alt"
+
 [cta]
   url = "/"
-  label = "13th and 14th June 2019"
+  label = "(Free sign up)"
   icon_pack = "fas"
-  icon = "calendar-alt"
+  icon = "sign-in-alt"
 
 [cta_alt]
   url = "#talks"
@@ -45,7 +51,7 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a href="#">Free access to all talks.</a>'
+  label = '<a href="#">Access to all talks is free, but registration is required.</a>'
 +++
 
 **11 researchers. 9 disciplines. 5 countries. One topic.**
