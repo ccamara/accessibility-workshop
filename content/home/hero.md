@@ -40,7 +40,7 @@ hero_media = ""
 #   icon = "calendar-alt"
 
 [cta]
-  url = "/"
+  url = "https://icuc.usj.es/inscripcion/international-workshop-urban-accessibility-inclusive-cities-everyone"
   label = "(Free sign up)"
   icon_pack = "fas"
   icon = "sign-in-alt"
@@ -51,9 +51,9 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a href="#">Access to all talks is free, but registration is required.</a>'
+  label = '<a href="https://icuc.usj.es/inscripcion/international-workshop-urban-accessibility-inclusive-cities-everyone">Access to all talks is free, but registration is required.</a>'
 +++
 
-**11 researchers. 9 disciplines. 5 countries. One topic.**
+**11 researches. 9 disciplines. 5 countries. One topic.**
 
-During 13th and 14th of June 2019, the **School of Architecture and Technology at [Universidad San Jorge](https://usj.es)**, will be holding the First International Workshop on Urban Accessibility. Providing a holistic approach, a series of 11 researchers from several countries and disciplines will be sharing their research and findings on the pursue of inclusive cities that can **improve the life of people with disabilities**.
+During 13th and 14th of June 2019, the **School of Architecture and Technology at [Universidad San Jorge](https://usj.es)**, will be organizing the First International Workshop on Urban Accessibility. Providing a holistic approach, a series of 11 research projects from several universities and countries will be sharing their findings on the pursue of inclusive cities that can **improve the life of people with disabilities**.
