@@ -23,11 +23,15 @@ a:hover {
   display: none;
 }
 
-#uni-logos h1 {
+#uni-logos h1,
+#uni-logos h2,
+#organizers h2,
+#organizers h1 {
   text-align: center;
   color: #313131;
 }
-#uni-logos ul {
+#uni-logos ul,
+#organizers ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -35,7 +39,8 @@ a:hover {
   text-align: center;
 }
 
-#uni-logos li {
+#uni-logos li,
+#organizers li {
   width: 30%;
   display: inline-block;
   vertical-align: middle;
