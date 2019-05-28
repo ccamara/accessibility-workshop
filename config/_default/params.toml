@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ccamara@usj.es"
-phone = "+34 976 060 100"
+# phone = "+34 976 060 100"
 address = """<b>Edificio rectorado</b>. Campus Universitario de Villanueva de Gállego<br>
 Autovía A-23 Zaragoza-Huesca Km. 299. <br> 50.830 Villanueva de Gállego (Zaragoza)"""
 
@@ -64,7 +64,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "calendar-check", icon_pack = "fa", name = "Free registration", link = "https://icuc.usj.es/inscripcion/international-workshop-urban-accessibility-inclusive-cities-everyone"},
   ]
 
 # Display a map.
