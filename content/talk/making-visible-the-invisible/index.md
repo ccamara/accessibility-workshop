@@ -53,7 +53,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [andrea-del-pilar, Gloria Esperanza Castellanos García, Jorge Enrique Rojas Delgado, Juan Manuel Aldana Porras, John Fredy Montes Mora]
+authors: [andrea-del-pilar, Gloria Esperanza Castellanos García, Jorge Enrique Rojas Delgado, juan-m-andana, John Fredy Montes Mora]
 tags: []
 
 # Is this a featured talk? (true/false)

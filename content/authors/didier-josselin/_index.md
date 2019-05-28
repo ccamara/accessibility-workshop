@@ -26,7 +26,7 @@ organizations:
   url: "http://gdr-magis.imag.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Dr. Didier Josselin is a Specialist in Spatial Analysis & Geographical Information Science, Director of Research (Prof) in the French National Center of Research (CNRS), Director of UMR ESPACE, Assistant Director of GdR MAGIS . He has more than 20 years of experience in both academic and industrial area. He has done his PhD in geography les infos La Déprise agricole en zone de montagne : vers un outil d’aide à la modélisation couplant systèmes d’induction et d’information géographique in the University Of Grenoble , France. He is working as a co-responsible or Participant in several SCIENTIFIC PROJECTS (2008-2017). He has supervised many post-doctorate, PHD, master and bachelor students. He has five book chapter, more than 24 research papers in international journals and 45 research papers in international/national conference proceedings in his credit. Didier Josselin has given many keynote speeches in his research area, particularly in Spatial Analysis and GEOmatics, geography . His last article is about reactive-city having for objectives to model and to visualize the city in movement and to anticipate its changes. e.g the model SERENICIM – System of assistant to the evaluation of the impacts of the climate change on the functioning of a littoral urban area
+bio: "Dr. Didier Josselin is a Specialist in Spatial Analysis & Geographical Information Science, Director of Research (Prof) in the French National Center of Research (CNRS), Director of UMR ESPACE, Assistant Director of GdR MAGIS . He has more than 20 years of experience in both academic and industrial area. He has done his PhD in geography.
 "
 
 interests:

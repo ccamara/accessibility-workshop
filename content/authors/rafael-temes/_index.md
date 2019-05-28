@@ -21,16 +21,25 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Dr. Rafael Temes works on a variety of GIS archives related with cities, landscape and regional planning. He runs a research team (www.vlcurbanbigdata.com) focused on different topics based on GIS: city and health; urban vulnerability; urban renewal; Big Data and apps development. He is Director of the Postgraduate Studies 'Geographic Information System for the regional planning, urban design and landscape' (Polytechnic University of Valencia)"
 
 interests:
 - Urban Planning
+- Big Data
+- urban renewal
+- urban design
+- architecture
+- GIS
 
 
 education:
   courses:
-  - course: PhD. BioEngineering
-    institution: University of California at Berkeley and UC San Francisco
+  - course: Ph.D. Architecture
+    institution: Universitat Politècnica de València
+  - course: Ms. Architecture
+    institution: Universitat Politècnica de València
+  - course: Arquitectura Técnica
+    institution: Universidad de la Laguna
 
 
 
@@ -39,9 +48,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: 'http://orcid.org/0000-0002-5604-4892'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,3 +66,5 @@ email: ""
 user_groups:
 - Speakers
 ---
+
+Dr. Rafael Temes works on a variety of GIS archives related with cities, landscape and regional planning. He runs a research team (www.vlcurbanbigdata.com) focused on different topics based on GIS: city and health; urban vulnerability; urban renewal; Big Data and apps development. He is Director of the Postgraduate Studies "Geographic Information System for the regional planning, urban design and landscape" (Polytechnic University of Valencia)

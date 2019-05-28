@@ -21,18 +21,25 @@ weight: 8
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Full Professor in Urban Planning at Politecnico di Milano"
 
 interests:
+- Architecture
 - Urban Planning
-- Interest 2
-- Interest 3
+- Urbanism
+- Spatial Planning
+- Mobility
+- Urban Design
+- Infrastructure
 
 
 education:
   courses:
-  - course: PhD. BioEngineering
-    institution: University of California at Berkeley and UC San Francisco
+  - course: Ph.D. in Territorial Planning
+    institution: IUAV
+    year: 1994
+  - course: Ms. Architecture
+
 
 
 
@@ -59,3 +66,5 @@ email: ""
 user_groups:
 - Speakers
 ---
+
+Paola Pucci, Ms. Arch. and Ph.D. in Territorial Planning (IUAV, 1994), is Full Professor in Urban Planning at Politecnico di Milano where she coordinated the Phd Course in Urban Planning, Design and Policy (from 2012 to 2018). Her research topics are about infrastructure and mobility policies, mobile phone data analysis, mobility behaviours analysis. The ongoing research projects are: - Policy Development based on Advanced Geospatial Data Analytics and Visualisation_Polivisu Project H2020 -SC6-CO-CREATION-2016-2017, (Project Partner, ongoing) - Long Distances commuters in Italy - Classifying railway stations to coordinate land-use and transport supply - Valutazione del traffico generato/attratto da trasformazioni urbanistiche (Regione Lombardia/Eupolis) - Spatial impacts of e-mobility.

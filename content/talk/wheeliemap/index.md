@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [sebastian-weise, Reuben Kirkham]
+authors: [guru-ncl, sebastian-weise, Reuben Kirkham]
 tags: []
 
 # Is this a featured talk? (true/false)

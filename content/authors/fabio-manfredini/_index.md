@@ -16,25 +16,21 @@ role: Architecture
 
 # Organizations/Affiliations
 organizations:
-- name: UMR ESPACE
-  url: ""
-
-
-
+- name: Politecnico di Milano
+  url: "http://www.polimi.it"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
 interests:
-- Urban Planning
-- Interest 2
-- Interest 3
+- Mobility
+- Spatial Database
 
 
 education:
-  courses:
-  - course: PhD. BioEngineering
-    institution: University of California at Berkeley and UC San Francisco
+  # courses:
+  # - course: PhD. BioEngineering
+  #   institution: University of California at Berkeley and UC San Francisco
 
 
 
@@ -61,3 +57,5 @@ email: ""
 user_groups:
 - Speakers
 ---
+
+Data Analysis and Cartography Laboratory Referent from April 2010. The Laboratory is specialized in the analysis of statistical data and in the production of cartography. It coordinates research activities and offers support to research and teaching of DASTU teachers. The staff of the Laboratory is made up of 7 technicians from the technical area, technical scientific and data processing with expertise in spatial and statistical analysis, in the production of cartography and data visualization, in database design and management. Responsible for "Sharing Point", service of acquisition and distribution of statistical and cartographic data of the Department of Architecture and Urban Studies.

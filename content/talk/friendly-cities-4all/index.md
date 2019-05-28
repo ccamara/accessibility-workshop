@@ -15,8 +15,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [cruz-borges]
-tags: [OpenStreetMap]
+authors: [ciudades-amigables, cruz-borges]
+tags: [Urban accessibility, Inclusion, Civic commitment, Social Innovation, Service-learning, Public engagement, Co-creation, OpenStreetMap]
 
 # Is this a featured talk? (true/false)
 featured: false

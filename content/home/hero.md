@@ -41,7 +41,7 @@ hero_media = ""
 
 [cta]
   url = "https://icuc.usj.es/inscripcion/international-workshop-urban-accessibility-inclusive-cities-everyone"
-  label = "(Free sign up)"
+  label = "Register to sessions"
   icon_pack = "fas"
   icon = "sign-in-alt"
 

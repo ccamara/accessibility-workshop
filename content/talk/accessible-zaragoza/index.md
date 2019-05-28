@@ -15,7 +15,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [carlos-camara, miguel-sevilla, ana-ruiz]
+authors: [zaccesible, carlos-camara, miguel-sevilla, ana-ruiz, javier-corzan, javier-claver]
 tags: [Collaborative mapping, GIS, OpenStreetMap, Zaragoza, thematic cartographies, accessibility, disabilities]
 
 # Is this a featured talk? (true/false)
@@ -40,7 +40,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

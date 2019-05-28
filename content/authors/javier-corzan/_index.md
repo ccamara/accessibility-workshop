@@ -12,7 +12,7 @@ weight: 1
 superuser: false
 
 # Role/position
-role: Researcher Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -28,6 +28,7 @@ interests:
 - Architecture
 - Public spaces
 - Cooperation
+- Historic Heritage
 
 
 education:
@@ -45,9 +46,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: globe
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'http://grupogenarquitectura.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,4 +65,6 @@ user_groups:
 - Staff
 ---
 
-Javier studied architecture at the School of Architecture and Technology of the University of San Jorge (Zaragoza) completing his training at the International University KU Leuven de Ghent (Belgium): "Achitecture: Resilient and Sustainable Strategies". He completed his studies in Technical Architecture at the Polytechnic University School of La Almunia (Zaragoza) obtaining outstanding results in his Final Degree Project. He has collaborated as a professional in International Cooperation projects in West Africa.
+He is a founding partner of Grupo GEN Arquitectura, a company that develops architecture, urban planning and engineering projects. His works have a specific focus on small municipalities, specializing in interventions on historical heritage, public space, consolidated urban areas and territorial management.
+
+Architect by San Jorge University and Edification Engineer by the University of Zaragoza. He completed his architecture training with international study stay at the KU Leuven International University of Ghent (Belgium): "Architecture: Resilient and sustainable strategies", and is currently collaborating in research work with the Research Group "Open Source Architectures" of San Jorge University.
