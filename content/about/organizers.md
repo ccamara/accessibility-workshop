@@ -50,7 +50,7 @@ subtitle = ""
 ## Sponsored by:
 * [![](/img/universities/usj-earte.png)](/talk/accessible-zaragoza/)
 * [![](/img/logo-dga.png)](https://aragon.es)
-* [![](/img/flag_europe.svg)](http://www.aragon.es/Fondos_Europeos)
+* [![](/img/logo-ce-horizontal-en-quadri-lr.png)](http://www.aragon.es/Fondos_Europeos)
 
 ## Hosted by:
 * [![](/img/logoCOAA-invertido.png)](http://www.coaaragon.es/)
