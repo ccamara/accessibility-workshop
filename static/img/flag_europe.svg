@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 75 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+<rect x="0" y="0" width="75" height="50" style="fill:#fff;"/>
+    <g>
+    <path id="star" d="M33.186,6.123l1.633,5.026l-4.274,-3.106l5.283,0l-4.274,3.106l1.632,-5.026Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star1" serif:id="star" d="M41.814,6.123l1.632,5.026l-4.274,-3.106l5.283,0l-4.274,3.106l1.633,-5.026Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star2" serif:id="star" d="M49.285,10.437l1.633,5.025l-4.275,-3.105l5.284,0l-4.275,3.105l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star3" serif:id="star" d="M53.599,17.909l1.633,5.025l-4.275,-3.106l5.284,0l-4.275,3.106l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star4" serif:id="star" d="M53.599,26.536l1.633,5.025l-4.275,-3.106l5.284,0l-4.275,3.106l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star5" serif:id="star" d="M49.285,34.007l1.633,5.025l-4.275,-3.105l5.284,0l-4.275,3.105l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star6" serif:id="star" d="M41.814,38.321l1.632,5.025l-4.274,-3.106l5.283,0l-4.274,3.106l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star7" serif:id="star" d="M33.186,38.321l1.633,5.025l-4.274,-3.106l5.283,0l-4.274,3.106l1.632,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star8" serif:id="star" d="M25.715,34.007l1.633,5.025l-4.275,-3.105l5.284,0l-4.275,3.105l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star9" serif:id="star" d="M21.401,26.536l1.633,5.025l-4.275,-3.106l5.284,0l-4.275,3.106l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star10" serif:id="star" d="M21.401,17.909l1.633,5.025l-4.275,-3.106l5.284,0l-4.275,3.106l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    <path id="star11" serif:id="star" d="M25.715,10.437l1.633,5.025l-4.275,-3.105l5.284,0l-4.275,3.105l1.633,-5.025Z" style="fill:#000;fill-rule:nonzero;"/>
+    </g>
+</svg>
