@@ -2,7 +2,7 @@
 title: "Mobility and accessibility to urban opportunities for disadvantage populations and older adults. research evidences by Mapping and Urban Data Lab"
 event: International Workshop on Urban Accessibility
 event_url: /
-location: "Universidad San Jorge, Villanueva de Gállego (Spain)"
+location: "Colegio Oficial de Arquitectos de Aragón, Zaragoza"
 summary:
 abstract: "The paper focusses on mobility and accessibility as fundamental conditions for enhancing the individual possibility to participate in valued activities by analysing mobility practices of two urban populations: disadvantage populations and older adults."
 
