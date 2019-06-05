@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "Schedule"
-subtitle = "All communications will take place at Class A1.11 at \"Rectorado\" Building"
+subtitle = "All communications will take place at **Colegio Oficial de Arquitectos de Aragón**, Calle San Voto 7, Zaragoza"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

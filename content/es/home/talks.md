@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "Conferencias"
-subtitle = "Todas las comunicaciones serán en inglés"
+subtitle = "Todas las comunicaciones serán en inglés y tendrán lugar en la sede del **[Colegio Oficial de Arquitectos de Aragón](http://www.coaaragon.es/)** (Calle San Voto nº7, Zaragoza)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
