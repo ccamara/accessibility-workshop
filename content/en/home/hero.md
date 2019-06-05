@@ -56,4 +56,4 @@ hero_media = ""
 
 **10 researches. 9 disciplines. 6 countries. One topic.**
 
-During 13th and 14th of June 2019, the **School of Architecture and Technology at [Universidad San Jorge](https://usj.es)**, will be organizing the First International Workshop on Urban Accessibility. Providing a holistic approach, a series of 11 research projects from several universities and countries will be sharing their findings on the pursuit of inclusive cities that can **improve the lives of people with disabilities**.
+During 13th and 14th of June 2019, the **School of Architecture and Technology at [Universidad San Jorge](https://usj.es)** will be organizing the First International Workshop on Urban Accessibility. Providing a holistic approach, a series of 11 research projects from several universities and countries will be sharing their findings on the pursuit of inclusive cities that can **improve the lives of people with disabilities**.
