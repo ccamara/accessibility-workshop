@@ -1,10 +1,10 @@
 ---
-title: OpenSidewalk project(s)
+title: "Accessible Mapping is a Network Problem: AccessMap, OpenSidewalks and SidewalkScore"
 event: International Workshop on Urban Accessibility
 event_url: /
 location: Universidad San Jorge, Villanueva de Gállego (Spain)
 summary:
-abstract: "Many routing application providers can give a detailed route from start point to destination— except for any non-motorized, pedestrian leg of a journey! The OpenSidewalks project addresses the fact that most cities lack open, consistently formatted, readily available, sidewalk data that supports routing for non-motor travel. As a result of the data crowdsourced by the OpenSidewalks project, we can furnish applications like AccessMap (found at accessmap.io)."
+abstract: "Accessibility maps attempt to communicate spatial attributes of the built environment so that pedestrians with diverse sets of mobility requirements can plan accessible trips and planners and other decision-makers can make informed choices about infrastructure improvements. Both of these tasks have the underlying path-based (and therefore, network-representable) goal of traversing the environment from one place to another. However, extant geodata for pedestrian infrastructure has traditionally been collected as disconnected assets, resulting in ambiguous accessibility maps that overlay inaccurate, incomplete, non-standardized, and/or disconnected geometries on top of a base map. As a result, pedestrian networks are typically unsupported by proprietary, open source, or municipal data. In this talk, I compare the informational content of different mapping approaches, discuss user experiences and evaluations of a subset of these approaches, and present two new accessibility tools based on a true pedestrian network: AccessMap, a public-facing pedestrian trip planning map, and SidewalkScore, a network-based metric of sidewalk accessibility. Findings: Study participants primarily choose network-based trip planning approaches, even when those approaches do not describe the pedestrian infrastructure of great importance to them, and down-rate asset-based accessibility maps when exposed to network-based trip planning services."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

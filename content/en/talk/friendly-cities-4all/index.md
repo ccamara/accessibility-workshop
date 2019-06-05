@@ -1,5 +1,5 @@
 ---
-title: "'Friendly Cities 4all!': Experience Using Open Technology For Empowering Comunity With Disable People As Protagonist"
+title: "'Friendly Cities 4all!': Experience Using Open Technology For Empowering Comunity With Disabled People As Protagonist"
 event: International Workshop on Urban Accessibility
 event_url: /
 location: Universidad San Jorge, Villanueva de Gállego (Spain)
