@@ -2,7 +2,7 @@
 title: "Making visible the invisible: Daily experiences of the subject in a situation of physical and sensory disability around the construction of right to the city for developing a mobile app to identify accesible spaces in Ibagué - Tolima"
 event: International Workshop on Urban Accessibility
 event_url: /
-location: Universidad San Jorge, Villanueva de Gállego (Spain)
+location: Colegio Oficial de Arquitectos de Aragón, Zaragoza
 summary:
 abstract: "UNESCO and UN-Hábitat define as 'Inclusive cities' those in which all citizens can exercise their
 right to the city, because '(...) the development and equality of all inhabitants are promoted,

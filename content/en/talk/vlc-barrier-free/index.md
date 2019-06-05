@@ -2,7 +2,7 @@
 title: "Valencia Barrier-Free"
 event: International Workshop on Urban Accessibility
 event_url: /
-location: Universidad San Jorge, Villanueva de Gállego (Spain)
+location: Colegio Oficial de Arquitectos de Aragón, Zaragoza
 summary:
 abstract: ""
 

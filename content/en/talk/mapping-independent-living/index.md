@@ -2,7 +2,7 @@
 title: Mapping independent living in Spain
 event: International Workshop on Urban Accessibility
 event_url: /
-location: Universidad San Jorge, Villanueva de Gállego (Spain)
+location: Colegio Oficial de Arquitectos de Aragón, Zaragoza
 summary: "'Mapping independent living' project, based on the principles of action research, aims to investigate the different initiatives of independent living developed in Spain so far. It was carried out -with users, activists and professionals- and has resulted in an interactive map that shows 47 initiatives."
 abstract: "*'Mapping independent living'* project, based on the principles of action research, aims to investigate the different initiatives of independent living developed in Spain so far. It was carried out -with users, activists and professionals- and has resulted in an interactive map that shows 47 initiatives."
 

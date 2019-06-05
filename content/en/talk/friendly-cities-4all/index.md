@@ -2,7 +2,7 @@
 title: "'Friendly Cities 4all!': Experience Using Open Technology For Empowering Comunity With Disabled People As Protagonist"
 event: International Workshop on Urban Accessibility
 event_url: /
-location: Universidad San Jorge, Villanueva de Gállego (Spain)
+location: Colegio Oficial de Arquitectos de Aragón, Zaragoza
 summary:
 abstract: "Friendly Cities 4All! is an interdisciplinary action-research initiative using service-learning and OpenStreetMap tools with the three-fold purpose of heightening awareness of functional diversity and social inclusion, making collaborative diagnoses using an open-source software app and acting to overcome barriers that limit the accessibility for all in our cities. People with disabilities have a leading role in this initiative. The project brings together the learning side (awareness + development of technological skills) with the service side (diagnoses & incident/ reporting actions). It is a social innovation initiative for the construction of friendly cities for all that seeks to meet social needs not currently catered for by the market or the public sector, thus opening up a space for public engagement."
 

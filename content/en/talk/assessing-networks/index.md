@@ -2,7 +2,7 @@
 title: Complementary ways of assessing network's accessibility
 event: International Workshop on Urban Accessibility
 event_url: /
-location: Universidad San Jorge, Villanueva de Gállego (Spain)
+location: Colegio Oficial de Arquitectos de Aragón, Zaragoza
 summary:
 abstract: "Didier Josselin proposes a discussion about accessibility. He suggests different complementary ways to study it: analyses of spatial network structures, construction of methods and metrics to measure accessibility, integration of people characteristics and way of life, development of new optimised shared transport services."
 

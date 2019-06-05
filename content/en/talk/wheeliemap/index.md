@@ -2,7 +2,7 @@
 title: Civic technologies for mobility impaired — the case of accessibility mapping with video
 event: International Workshop on Urban Accessibility
 event_url: /
-location: Universidad San Jorge, Villanueva de Gállego (Spain)
+location: Colegio Oficial de Arquitectos de Aragón, Zaragoza
 summary: The WheelieMap system and suggestions for discussion
 abstract: "For persons with disabilities, the built environment contains a broad range of physical barriers. Public authorities have limited resources to address them, meaning there is a challenge in prioritising which barriers are to be removed and to what extent. As an example of innovative future civic technologies, the article presents the concept of video-mapping as an improvement upon traditional consultation and engagement processes. Video happens to be a particularly effective medium for illustrating accessibility barriers, whilst the map facility enables comparative discussions. Accordingly, this approach represents an advance in discussing and deliberating on the resolution of accessibility barriers within the built environment. For the workshop, the discussion of this prototype invites a discussion on ways to support innovative civic technologies; and which kinds of business models and information governance systems would be required to enable a heathy ecosystem of civic technologies that arise from the bottom-up. "
 
