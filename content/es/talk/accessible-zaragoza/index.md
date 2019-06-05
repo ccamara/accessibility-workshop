@@ -1,5 +1,5 @@
 ---
-title: Past, present and future of Accessible Zaragoza study case: Collaborative mapping for the integration of impaired people. 
+title: "Past, present and future of Accessible Zaragoza study case: Collaborative mapping for the integration of impaired people" 
 event: International Workshop on Urban Accessibility
 event_url: /
 location: Universidad San Jorge, Villanueva de Gállego (Spain)
