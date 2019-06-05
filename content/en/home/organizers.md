@@ -48,7 +48,7 @@ subtitle = ""
 +++
 
 ## Organized by:
-* [![](/img/logo-aos.png)](https://aos.usj.es)
+* [![](/img/logo-aos-02.png)](https://aos.usj.es)
 
 ## Sponsored by:
 * [![](/img/universities/usj-earte.png)](https://usj.es)
