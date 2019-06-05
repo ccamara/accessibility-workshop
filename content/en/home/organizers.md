@@ -52,7 +52,8 @@ subtitle = ""
 
 ## Sponsored by:
 * [![](/img/universities/usj-earte.png)](https://usj.es)
-* [![](/img/logo-ce-horizontal-en-quadri-lr.png)](http://www.aragon.es/Fondos_Europeos)
+* [![](/img/logo-eu.png)](http://www.aragon.es/Fondos_Europeos)
+<!-- * [![](/img/logo-ce-horizontal-en-quadri-lr.png)](http://www.aragon.es/Fondos_Europeos) -->
 * [![](/img/logo-dga.png)](https://aragon.es)
 
 ## Hosted by:
