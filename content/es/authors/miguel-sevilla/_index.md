@@ -14,6 +14,8 @@ role: Geography
 
 # Organizations/Affiliations
 organizations:
+- name: Mapeado Colaborativo
+  url: "http://mapcolabora.org"
 - name: Universidad de Zaragoza
   url: "http://unizar.es"
 - name: Instituto Pirenaico de Ecología-CSIC
