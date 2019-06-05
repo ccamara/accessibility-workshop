@@ -43,7 +43,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Este workshop ha sido organizado por el grupo de investigación *[Arquitecturas OpenSource](https://aos.usj.es)* de la **Escuela de Arquitectura y Tecnología de la Universidad San Jorge** con el objetivo de crear una red de investigadores de diferentes universidades y disciplinas que compartan un mismo campo de investigación: el relacionado con la mejora de la condición de las personas con discapacidad en las ciudades del siglo XXI. El taller está dirigido a cumplir con los siguientes objetivos:
+Este workshop ha sido organizado por el grupo de investigación *[Arquitecturas OpenSource](http://aos.usj.es)* de la **Escuela de Arquitectura y Tecnología de la Universidad San Jorge** con el objetivo de crear una red de investigadores de diferentes universidades y disciplinas que compartan un mismo campo de investigación: el relacionado con la mejora de la condición de las personas con discapacidad en las ciudades del siglo XXI. El taller está dirigido a cumplir con los siguientes objetivos:
 
 1. Crear una red de sinergias de trabajo y colaboración entre proyectos, grupos de investigación y universidades para la promoción de proyectos de investigación-acción destinados a mejorar la movilidad y autonomía de las personas con diversidad funcional mediante la aplicación de enfoques colaborativos y datos abiertos que puedan enmarcarse como proyectos de ciencia ciudadana.
 2. Diseñar conjuntamente una posible hoja de ruta de trabajo para los miembros de la red.
