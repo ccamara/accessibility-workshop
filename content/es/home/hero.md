@@ -54,6 +54,6 @@ hero_media = ""
   label = '<a href="https://icuc.usj.es/inscripcion/international-workshop-urban-accessibility-inclusive-cities-everyone">El acceso a las jornadas del día 13 es gratuito, pero es necesario registrarse.</a>'
 +++
 
-**11 investigaciones. 9 disciplinas. 6 países. 1 tema.**
+**10 investigaciones. 9 disciplinas. 6 países. 1 tema.**
 
 Durante los días 13 y 14 de junio de 2019, el grupo de investigación **Arquitecturas OpenSource de la [Universidad San Jorge](https://usj.es)**, organiza el primer Workshop internacional sobre accesibilidad urbana. Con una visión holística, investigadores de distintas universidades y países presentarán los hallzgos de sus proyectos de investigación en búsca de ciudades inclusivas capaces de **mejorar la vida de las personas con discapacidad**.

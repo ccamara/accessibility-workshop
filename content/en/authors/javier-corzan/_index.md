@@ -18,8 +18,8 @@ role: Research Assistant
 organizations:
 - name: Universidad San Jorge
   url: "https://usj.es"
-- name: Grupo GEN
-  url: "http://grupogenarquitectura.com"
+# - name: Grupo GEN
+#   url: "http://grupogenarquitectura.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Architect.

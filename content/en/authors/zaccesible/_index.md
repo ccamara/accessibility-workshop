@@ -63,7 +63,7 @@ Accessible Zaragoza is a project of collaborative mapping of aspects related to 
 ## Current staff:
 
 * [Carlos Cámara](/authors/carlos-camara). Main researcher. AOS Group, Universidad San Jorge.
-* Ana Ruiz. Researcher. AOS Group, Universidad San Jorge.
+* [Ana Ruiz](/authors/ana-ruiz). Researcher. AOS Group, Universidad San Jorge.
 * [Miguel Sevilla-Callejo](/authors/miguel-sevilla). External researcher. Mapeado Colaborativo, Universidad de Zaragoza. IPE-CSIC.
 * [Javier Corzán](/authors/javier-corzan). Research assistant. AOS Group, Universidad San Jorge.
 * [Javier Claver](/authors/javier-claver). Intern. Universidad San Jorge.

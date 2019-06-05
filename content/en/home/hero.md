@@ -54,6 +54,6 @@ hero_media = ""
   label = '<a href="https://icuc.usj.es/inscripcion/international-workshop-urban-accessibility-inclusive-cities-everyone">Access to all talks is free, but registration is required.</a>'
 +++
 
-**11 researches. 9 disciplines. 6 countries. One topic.**
+**10 researches. 9 disciplines. 6 countries. One topic.**
 
 During 13th and 14th of June 2019, the **School of Architecture and Technology at [Universidad San Jorge](https://usj.es)**, will be organizing the First International Workshop on Urban Accessibility. Providing a holistic approach, a series of 11 research projects from several universities and countries will be sharing their findings on the pursue of inclusive cities that can **improve the life of people with disabilities**.
