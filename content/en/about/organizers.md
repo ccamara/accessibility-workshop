@@ -47,10 +47,13 @@ subtitle = ""
  css_class = "organizers"
 +++
 
+## Organized by:
+* [![](/img/logo-aos.png)](https://aos.usj.es)
+
 ## Sponsored by:
-* [![](/img/universities/usj-earte.png)](/talk/accessible-zaragoza/)
-* [![](/img/logo-dga.png)](https://aragon.es)
+* [![](/img/universities/usj-earte.png)](https://usj.es)
 * [![](/img/logo-ce-horizontal-en-quadri-lr.png)](http://www.aragon.es/Fondos_Europeos)
+* [![](/img/logo-dga.png)](https://aragon.es)
 
 ## Hosted by:
 * [![](/img/logoCOAA-invertido.png)](http://www.coaaragon.es/)

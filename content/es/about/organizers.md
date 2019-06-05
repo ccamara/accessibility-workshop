@@ -48,13 +48,13 @@ subtitle = ""
 +++
 
 ## Organizado por:
-* [![](/img/universities/usj-earte.png)](/talk/accessible-zaragoza/)
+* [![](/img/logo-aos.png)](https://aos.usj.es)
 
 
 ## Financiado por:
-* [![](/img/logo-dga.png)](https://aragon.es)
+* [![](/img/universities/usj-earte.png)](https://usj.es)
 * [![](/img/logo-ce-horizontal-en-quadri-lr.png)](http://www.aragon.es/Fondos_Europeos)
-* [![](/img/universities/usj-earte.png)](/talk/accessible-zaragoza/)
+* [![](/img/logo-dga.png)](https://aragon.es)
 
 ## Con la colaboración de:
 * [![](/img/logoCOAA-invertido.png)](http://www.coaaragon.es/)

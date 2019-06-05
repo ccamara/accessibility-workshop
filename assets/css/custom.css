@@ -45,5 +45,13 @@ a:hover {
   display: inline-block;
   vertical-align: middle;
   padding: 2%;
-  max-height: 200px;
+}
+
+#uni-logos img {
+  display: inline;
+  max-height: 75px;
+}
+#organizers img {
+  display: inline;
+  max-height: 69px;
 }
