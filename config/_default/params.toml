@@ -52,8 +52,10 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ccamara@usj.es"
 # phone = "+34 976 060 100"
-address = """<b>Edificio rectorado</b>. Campus Universitario de Villanueva de Gállego<br>
-Autovía A-23 Zaragoza-Huesca Km. 299. <br> 50.830 Villanueva de Gállego (Zaragoza)"""
+address = """<b>Colegio Oficial de Arquitectos de Aragón</b>.<br>
+Calle San Voto 7, Zaragoza"""
+# address = """<b>Edificio rectorado</b>. Campus Universitario de Villanueva de Gállego<br>
+# Autovía A-23 Zaragoza-Huesca Km. 299. <br> 50.830 Villanueva de Gállego (Zaragoza)"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""
@@ -84,8 +86,10 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "41.75670"
-longitude = "-0.83257"
+latitude = "41.65401"
+longitude = "-0.87846"
+# latitude = "41.75670"
+# longitude = "-0.83257"
 zoom = 16
 
 ############################
