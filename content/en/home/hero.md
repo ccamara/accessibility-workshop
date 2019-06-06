@@ -46,7 +46,7 @@ hero_media = ""
   icon = "sign-in-alt"
 
 [cta_alt]
-  url = "#talks"
+  url = "/workshop-schedule.pdf"
   label = "View schedule"
 
 # Note. An optional note to show underneath the links.
