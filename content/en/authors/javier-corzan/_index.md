@@ -6,8 +6,6 @@ name: Javier Corzán Serrano
 authors:
 - javier-corzan
 
-weight: 1
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -63,6 +61,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Staff
+- Speakers
 ---
 
 He is a founding partner of Grupo GEN Arquitectura, a company that develops architecture, urban planning and engineering projects. His works have a specific focus on small municipalities, specializing in interventions on historical heritage, public space, consolidated urban areas and territorial management.

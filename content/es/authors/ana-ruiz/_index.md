@@ -64,6 +64,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Staff
+- Speakers
 ---
 
 Architect, Urban Technician, Magister in TIG for Territorial Planning: GIS and Remote Sensing, and PhD in Urban Planning. Professor of Urban Planning at the School of Architecture and Technology of the University
