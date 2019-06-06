@@ -73,5 +73,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Other
+- Speakers
 ---
 Doctor in Geography. Researcher. Teacher. Freelance consultant. Interested in territorial dynamics, geographic information technologies and software and free tools.
