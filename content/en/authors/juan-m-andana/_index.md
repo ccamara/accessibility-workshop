@@ -6,8 +6,6 @@ name: Juan Manuel Andana Porras
 authors:
 - juan-m-andana
 
-weight: 8
-
 # Is this the primary user of the site?
 superuser: false
 

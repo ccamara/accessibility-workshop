@@ -6,7 +6,6 @@ name: Didier Josselin
 authors:
 - didier-josselin
 
-weight: 5
 
 # Is this the primary user of the site?
 superuser: false

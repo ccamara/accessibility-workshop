@@ -17,9 +17,6 @@ organizations:
 - name: UMR ESPACE
   url: ""
 
-weight: 8
-
-
 # Short bio (displayed in user profile at end of posts)
 bio: "Full Professor in Urban Planning at Politecnico di Milano"
 
