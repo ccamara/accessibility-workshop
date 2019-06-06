@@ -39,12 +39,17 @@ a:hover {
   text-align: center;
 }
 
-#uni-logos li,
-#organizers li {
+#uni-logos li {
   width: 30%;
   display: inline-block;
   vertical-align: middle;
   padding: 2%;
+}
+#organizers li {
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1%;
 }
 
 #uni-logos img {
@@ -53,5 +58,5 @@ a:hover {
 }
 #organizers img {
   display: inline;
-  max-height: 69px;
+  height: 69px;
 }
