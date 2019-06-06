@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
 title = "Conferencias"
 subtitle = "Todas las comunicaciones serán en inglés y tendrán lugar en la sede del **[Colegio Oficial de Arquitectos de Aragón](http://www.coaaragon.es/)** (Calle San Voto nº7, Zaragoza)"
